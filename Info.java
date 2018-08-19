@@ -3,5 +3,8 @@ public class Info {
     System.out.println("&&&&&&&&&&");
     System.out.println("&&&Info&&&");
     System.out.println("&&&&&&&&&&");
+    System.out.println("##########");
+    System.out.println("###Info###");
+    System.out.println("##########");
   }
 }
